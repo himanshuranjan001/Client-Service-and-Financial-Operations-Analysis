@@ -85,8 +85,8 @@ It also provides practical exposure to operational reporting processes relevant 
 
 ## Project Files
 
-- Client_Service_Financial_Operations_Practice.xlsx – Dataset
-- client_service_financial_operations.ipynb – Python analysis
+- [Client_Service_Financial_Operations_Practice.xlsx](./Client_Service_Financial_Operations_Practice.xlsx) – Excel Dataset
+- [client_service_financial_operations.ipynb](./client_service_financial_operations.ipynb) – Python Analysis Notebook
 
 ## How to Run the Project
 
